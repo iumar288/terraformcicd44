@@ -20,3 +20,4 @@ jobs:
                           -var "AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}" \
                           -var "AWS_SESSION_TOKEN=${{ secrets.AWS_SESSION_TOKEN }}" \
                           -auto-approve
+                          
