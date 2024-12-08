@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "terraformcicd44",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1733641231010,
+    "databaseType": "mongodb",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZWQwZWM1MzViZWZmZGIxZjYxMzQyMDAwNmEwOTcwOWE5MTA3OGI1MjYwM2IwZTM3OWZkNWYyNjZiOTgwYmNlYWNhMWJjMTBiMGYwOTg4NzZkOGQwZGY5ZWE5YjI5NWJiNjIwNzhiODY4MTNlMGFiNjAxMWM4YzQ5YThhODEyM2E=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
